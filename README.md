@@ -1,4 +1,4 @@
-# FilmsManager
+# BESTV - FilmsManager
 
 Final project for the OOP course. Application dedicated to the maintenance of a movie database.
 
