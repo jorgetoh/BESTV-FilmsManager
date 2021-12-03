@@ -8,3 +8,24 @@ This application doesn't have a real usage as it is a mix of a lot of different 
 It works with a lot of different file formats to read and write data, like text files, binary files, html...
 
 Coded with JDK 17.
+
+
+Runtime view examples:
+<p align="center">
+  <img src="https://i.imgur.com/6deFADW.png"/>
+</p>
+<p align="center">
+  <b>MAIN MENU</b>
+</p>
+<p align="center">
+  <img src="https://i.imgur.com/9GfKUcl.png"/>
+</p>
+<p align="center">
+  <b>FILM QUERY</b>
+</p>
+<p align="center">
+  <img src="https://i.imgur.com/B7AHA7I.png"/>
+</p>
+<p align="center">
+  <b>FILM LIST QUERY</b>
+</p>
