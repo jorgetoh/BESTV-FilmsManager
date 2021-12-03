@@ -12,20 +12,21 @@ Coded with JDK 17.
 
 Runtime view examples:
 <p align="center">
-  <img src="https://i.imgur.com/6deFADW.png"/>
-</p>
-<p align="center">
   <b>MAIN MENU</b>
 </p>
 <p align="center">
-  <img src="https://i.imgur.com/9GfKUcl.png"/>
+  <img src="https://i.imgur.com/6deFADW.png"/>
 </p>
 <p align="center">
   <b>FILM QUERY</b>
 </p>
 <p align="center">
-  <img src="https://i.imgur.com/B7AHA7I.png"/>
+  <img src="https://i.imgur.com/9GfKUcl.png"/>
 </p>
 <p align="center">
   <b>FILM LIST QUERY</b>
 </p>
+<p align="center">
+  <img src="https://i.imgur.com/B7AHA7I.png"/>
+</p>
+
