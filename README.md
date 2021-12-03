@@ -1,6 +1,6 @@
 # BESTV - FilmsManager
 
-Final project for the OOP course. Application dedicated to the maintenance of a movie database. The code follows the MVC Pattern.
+Final project for the OOP course. Application dedicated to the maintenance of a movies database. The code follows the MVC Pattern.
 
 > This program requires cotitools to work. You can find the library [here](http://maxus.fis.usal.es/HOTHOUSE/p3/).
 
